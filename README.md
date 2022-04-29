@@ -12,9 +12,9 @@
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Code-Oz](https://github.com/charroua) 
+- 👨‍💻 All of my projects are available at [https://github.com/Charroua](https://github.com/charroua) 
 
-- 📝 I regularly write articles on [https://dev.to/codeoz](https://github.com/charroua)
+- 📝 I regularly write articles on [https://dev.to/Charroua](https://github.com/charroua)
 
 <h3 align="left"> - financial markets and data analysis / software  </h3>
 
