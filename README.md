@@ -19,19 +19,19 @@
 
 <p align="left">
 
-<h3 align="left">Basic</h3>
+<h3 align="left"> - <strong> finance and data analysis /software : </h3>
 
 <img src="https://mentorit.com.np/wp-content/uploads/2019/05/Microsoft-excel-vba-logo.png" alt="VBA" width="150" height="70"/> </a>
 <img src="https://img.cppng.com/download/2020-06/7-2-python-logo-free-download-png.png" alt="Python" width="70" height="70"/> </a>
 <img src="https://thinkr.fr/wp-content/uploads/rr.png" alt="R-Studio" width="150" height="70"/> </a>
 
-<h3 align="left">Front</h3>
+<h3 align="left">- <strong> econometric and statistical analysis /software: </h3>
 
 <img src="https://ritme.com/wp-content/uploads/2021/04/Bannie%CC%80re_EViews12.png" alt="Eviews" width="100" height="70"/> </a>
 <img src="https://financesonline.com/uploads/2019/09/stata-logo1.png" alt="STATA" width="120" height="50"/> </a>
 <img src="https://www.pngitem.com/pimgs/m/19-191270_spss-logo-png-transparent-spss-png-download.png" alt="SPSS" width="120" height="50"/> </a>
 
-<h3 align="left">Others</h3>
+<h3 align="left">- <strong> Others : </h3>
 
 <img src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png" alt="Anaconda" width="120" height="70"/> </a>
 <img src="https://miro.medium.com/max/367/1*1lXiy9OzjFbLMA4-VbDwvQ.png" alt="JupyterLab" width="150" height="70"/> </a>
